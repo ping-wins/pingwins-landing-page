@@ -368,8 +368,8 @@ nav a:hover {
 
 .logo-orbit {
   position: relative;
-  width: 540px;
-  height: 540px;
+  width: 520px;
+  height: 520px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -398,14 +398,14 @@ nav a:hover {
 }
 
 .ring-1 {
-  width: 514px;
-  height: 514px;
+  width: 504px;
+  height: 504px;
   border-top-color: rgba(243,183,44,0.4);
 }
 
 .ring-2 {
-  width: 536px;
-  height: 536px;
+  width: 516px;
+  height: 516px;
   border-right-color: rgba(232,109,31,0.3);
   animation-direction: reverse;
   animation-duration: 30s;
@@ -435,14 +435,14 @@ nav a:hover {
 }
 
 .badge-top {
-  top: 70px;
-  right: 8px;
+  top: 95px;
+  right: 45px;
   animation-delay: -2s;
 }
 
 .badge-bottom {
-  bottom: 70px;
-  left: 8px;
+  bottom: 95px;
+  left: 45px;
 }
 
 .hero-scroll-hint {
