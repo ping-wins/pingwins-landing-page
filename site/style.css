@@ -381,7 +381,6 @@ nav a:hover {
   object-fit: contain;
   position: relative;
   z-index: 2;
-  animation: float 6s ease-in-out infinite;
   filter: drop-shadow(0 20px 60px rgba(243,183,44,0.35));
 }
 
@@ -435,7 +434,7 @@ nav a:hover {
 }
 
 .badge-top {
-  top: 95px;
+  top: 115px;
   right: 45px;
   animation-delay: -2s;
 }
