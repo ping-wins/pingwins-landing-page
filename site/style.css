@@ -182,7 +182,7 @@ img {
 }
 
 .logo-img {
-  height: 52px;
+  height: 90px;
   width: auto;
   transition: transform var(--transition);
 }
@@ -368,16 +368,16 @@ nav a:hover {
 
 .logo-orbit {
   position: relative;
-  width: 480px;
-  height: 480px;
+  width: 600px;
+  height: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .hero-logo {
-  width: 380px;
-  height: 380px;
+  width: 500px;
+  height: 500px;
   object-fit: contain;
   position: relative;
   z-index: 2;
@@ -398,14 +398,14 @@ nav a:hover {
 }
 
 .ring-1 {
-  width: 430px;
-  height: 430px;
+  width: 550px;
+  height: 550px;
   border-top-color: rgba(243,183,44,0.4);
 }
 
 .ring-2 {
-  width: 480px;
-  height: 480px;
+  width: 600px;
+  height: 600px;
   border-right-color: rgba(232,109,31,0.3);
   animation-direction: reverse;
   animation-duration: 30s;
