@@ -368,16 +368,16 @@ nav a:hover {
 
 .logo-orbit {
   position: relative;
-  width: 360px;
-  height: 360px;
+  width: 480px;
+  height: 480px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .hero-logo {
-  width: 260px;
-  height: 260px;
+  width: 380px;
+  height: 380px;
   object-fit: contain;
   position: relative;
   z-index: 2;
@@ -398,14 +398,14 @@ nav a:hover {
 }
 
 .ring-1 {
-  width: 310px;
-  height: 310px;
+  width: 430px;
+  height: 430px;
   border-top-color: rgba(243,183,44,0.4);
 }
 
 .ring-2 {
-  width: 360px;
-  height: 360px;
+  width: 480px;
+  height: 480px;
   border-right-color: rgba(232,109,31,0.3);
   animation-direction: reverse;
   animation-duration: 30s;
@@ -1142,17 +1142,17 @@ footer {
   }
 
   .logo-orbit {
-    width: 280px;
-    height: 280px;
+    width: 340px;
+    height: 340px;
   }
 
   .hero-logo {
-    width: 200px;
-    height: 200px;
+    width: 260px;
+    height: 260px;
   }
 
-  .ring-1 { width: 240px; height: 240px; }
-  .ring-2 { width: 280px; height: 280px; }
+  .ring-1 { width: 300px; height: 300px; }
+  .ring-2 { width: 340px; height: 340px; }
 
   .cards-grid {
     grid-template-columns: 1fr;
