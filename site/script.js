@@ -57,10 +57,11 @@ revealElements.forEach(el => revealObserver.observe(el));
 const ctaForm = document.getElementById('ctaForm');
 const toast = document.getElementById('toast');
 
-ctaForm.addEventListener('submit', (e) => {
-  e.preventDefault();
-  showToast();
-  ctaForm.reset();
+ctaForm.addEventListener('submit', () => {
+  setTimeout(() => {
+    showToast();
+    ctaForm.reset();
+  }, 500);
 });
 
 function showToast() {
